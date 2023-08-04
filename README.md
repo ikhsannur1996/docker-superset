@@ -1,5 +1,3 @@
-Sure, here's the updated content formatted as a `README.md` document:
-
 # Apache Superset Docker Image (Version 2.1.0)
 
 This repository provides instructions to build a Docker image for Apache Superset version 2.1.0, an open-source business intelligence web application. With this Docker image, you can easily deploy and run Superset in a containerized environment.
@@ -78,6 +76,22 @@ $ docker exec -it superset superset init
 ### Accessing Superset
 
 After completing the initialization steps, you can access the Superset web interface by navigating to http://localhost:8080/login/. Use the admin credentials (username: admin, password: admin) or the credentials you set during the admin account creation to log in.
+
+## Welcome Image
+
+![Welcome to Apache Superset](welcome_image.png)
+
+## Sample Dashboard
+
+Here is a sample dashboard showcasing various data visualizations created using Apache Superset.
+
+_Include an image or description of the sample dashboard here._
+
+## My Dashboard
+
+Create your own interactive dashboards using Apache Superset! Use the intuitive interface to explore and visualize your data.
+
+_Include any additional information or instructions for users to create their own dashboards._
 
 ## References
 
