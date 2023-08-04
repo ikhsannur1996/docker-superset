@@ -108,4 +108,4 @@ $ docker run -d -p 8080:8088 -e "SUPERSET_SECRET_KEY=<your_secret_key_here>" --n
 
 For more information and documentation on Apache Superset, visit the official website: https://superset.apache.org
 
-Happy data exploration with Apache Superset in your Docker container! 🚀
+Happy data exploration with Apache Superset in your Docker container! 🚀 
