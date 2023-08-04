@@ -94,6 +94,16 @@ Create your own interactive dashboards using Apache Superset! Use the intuitive 
 
 _Include any additional information or instructions for users to create their own dashboards._
 
+
+## Optional Auto-Restart
+
+To enable auto-restart for the Superset container in case it crashes or is stopped, use the `--restart` flag with the `unless-stopped` option in the `docker run` command. This ensures that the container will automatically restart unless it is explicitly stopped.
+
+```bash
+$ docker run -d -p 8080:8088 -e "SUPERSET_SECRET_KEY=<your_secret_key_here>" --name superset --restart unless-stopped superset:2.1.0
+```
+
+
 ## References
 
 For more information and documentation on Apache Superset, visit the official website: https://superset.apache.org
