@@ -85,7 +85,8 @@ After completing the initialization steps, you can access the Superset web inter
 
 Here is a sample dashboard showcasing various data visualizations created using Apache Superset.
 
-_Include an image or description of the sample dashboard here._
+![world-banks-data-2023-08-04T01-59-06 597Z](https://github.com/ikhsannur1996/docker-superset-2.1.0/assets/32507742/831849d6-b4ac-4895-a757-b94651b29bb4)
+_
 
 ## My Dashboard
 
