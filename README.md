@@ -79,14 +79,14 @@ After completing the initialization steps, you can access the Superset web inter
 
 ## Welcome Image
 
-![Welcome to Apache Superset](welcome_image.png)
+![image](https://github.com/ikhsannur1996/docker-superset-2.1.0/assets/32507742/041e1d1b-597a-4aa3-b09a-778511b91dd7)
+
 
 ## Sample Dashboard
 
 Here is a sample dashboard showcasing various data visualizations created using Apache Superset.
 
 ![world-banks-data-2023-08-04T01-59-06 597Z](https://github.com/ikhsannur1996/docker-superset-2.1.0/assets/32507742/831849d6-b4ac-4895-a757-b94651b29bb4)
-_
 
 ## My Dashboard
 
