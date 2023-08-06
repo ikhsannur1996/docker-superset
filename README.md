@@ -92,7 +92,7 @@ Here is a sample dashboard showcasing various data visualizations created using 
 
 Create your own interactive dashboards using Apache Superset! Use the intuitive interface to explore and visualize your data.
 
-_Include any additional information or instructions for users to create their own dashboards._
+![global-superstore-2023-08-06T12-18-59 801Z](https://github.com/ikhsannur1996/docker-superset-2.1.0/assets/32507742/a95e3eb7-1392-4385-84bf-f8d521347595)
 
 
 ## Optional Auto-Restart
